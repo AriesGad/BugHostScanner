@@ -1,0 +1,15 @@
+www
+mail
+ftp
+api
+dev
+test
+staging
+blog
+shop
+forum
+login
+admin
+app
+web
+secure
